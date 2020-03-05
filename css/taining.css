@@ -1,0 +1,29 @@
+.hwrapper{
+    width:1280px;
+    height: auto;
+    margin: 0 auto;
+}
+.wrph h1{
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 40%;
+}
+.table{
+    width:1280px;
+    height: auto;
+    margin: 0 auto;
+}
+
+table{
+    border:1px solid tomato;
+    width: 1280px;
+    height: auto;
+    
+
+}
+
+td{
+    width:
+    border: 1px solid tomato;
+}
